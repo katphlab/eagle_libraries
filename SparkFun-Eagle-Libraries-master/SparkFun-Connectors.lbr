@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.5.0">
+<eagle version="7.6.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -18039,12 +18039,12 @@ Reduced openings in tStop, pins spread a tiny bit out to hold part on PCB during
 <circle x="27.94" y="0" radius="0.508" width="0" layer="29"/>
 </package>
 <package name="1X06_NO_SILK">
-<pad name="1" x="0" y="0" drill="1.016" diameter="1.8796" rot="R90"/>
-<pad name="2" x="2.54" y="0" drill="1.016" diameter="1.8796" rot="R90"/>
-<pad name="3" x="5.08" y="0" drill="1.016" diameter="1.8796" rot="R90"/>
-<pad name="4" x="7.62" y="0" drill="1.016" diameter="1.8796" rot="R90"/>
-<pad name="5" x="10.16" y="0" drill="1.016" diameter="1.8796" rot="R90"/>
-<pad name="6" x="12.7" y="0" drill="1.016" diameter="1.8796" rot="R90"/>
+<pad name="1" x="0" y="0" drill="0.9" diameter="1.8796" rot="R90"/>
+<pad name="2" x="2.54" y="0" drill="0.9" diameter="1.8796" rot="R90"/>
+<pad name="3" x="5.08" y="0" drill="0.9" diameter="1.8796" rot="R90"/>
+<pad name="4" x="7.62" y="0" drill="0.9" diameter="1.8796" rot="R90"/>
+<pad name="5" x="10.16" y="0" drill="0.9" diameter="1.8796" rot="R90"/>
+<pad name="6" x="12.7" y="0" drill="0.9" diameter="1.8796" rot="R90"/>
 <text x="-1.3462" y="1.8288" size="1.27" layer="25" ratio="10">&gt;NAME</text>
 <text x="-1.27" y="-3.175" size="1.27" layer="27">&gt;VALUE</text>
 <rectangle x1="12.446" y1="-0.254" x2="12.954" y2="0.254" layer="51"/>
